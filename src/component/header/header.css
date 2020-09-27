@@ -1,0 +1,18 @@
+h1{
+   font-size: 35px;
+    letter-spacing: 0px;
+    color: #3BCCF6;opacity: 1;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header .header_admin_image{}
+header .header_admin_image .img_icon{width: 52px;height: 52px;float: left;border-radius: 50%;
+    background: #000}
+.search-form{width: 30%; display: flex; padding: 0;}
+.search-form .searchbox { position: relative; width: 100%;}
+.searchbox .fa{margin-right: 10px;}
+
+.searchbox input{width: 100%;padding: 10px 15px 10px 45px;border: 2px solid transparent; height: 45px;}
+.searchbox input:focus{border-color: #3BCCF6; outline: none;}
+.searchbox button{width: auto;border: none;background: none;box-shadow: none;position: absolute;top: 13px;left: 15px; }
